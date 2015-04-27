@@ -10,6 +10,27 @@
  * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
  * file per style scope.
  *
- *= require_tree .
- *= require_self
  */
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+main {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1000px;
+}
+
+form {
+  max-width: 399px;
+  input[type=text], input[type=number], select {
+    @extend .form-control;
+  }
+  ul {
+    list-style: none;
+  }
+}
+
+form > div {
+  @extend .form-group;
+}
