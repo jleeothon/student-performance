@@ -4,6 +4,6 @@
     <%= select_tag 'column', options_from_collection_for_select(@options, :name, :desc)  %>
   </div>
   <div>
-    <%= submit_tag 'Go!' %>
+    <%= submit_tag 'Go!', class: 'btn btn-primary' %>
   </div>
 <% end %>

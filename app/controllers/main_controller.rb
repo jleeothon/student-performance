@@ -6,39 +6,42 @@ class MainController < ApplicationController
   end
 
   def select
-    @options = Student::columns.map{|c| @@Option::new c[:name], c[:desc]}
+    @options = Student::ds_columns.map{|c| @@Option::new c[:name], c[:desc]}
   end
 
   def query
     class_name = params[:column]
-    @class_column = Student::columns.find{|c| c[:name] == class_name }[:desc]
-    @columns = Student::columns.select do |c|
+    @class_column = Student::ds_columns.find{|c| c[:name] == class_name }[:desc]
+    @columns = Student::ds_columns.select do |c|
       c[:name] != class_name
     end.map do |c|
       {
         name: c[:name],
         desc: c[:desc],
-        values: c[:values].map { |v| @@Option::new v[0], v[1] }
+        values: c[:values].map{|v| @@Option::new v[0], v[1]}
       }
     end
   end
 
   def result
-    @class_name = Student::columns.find do |c|
+    @class_col = Student::ds_columns.find do |c|
       not params.keys.include? c[:name]
-    end[:name]
-    @query_parameters = params.select do |k, v|
-      k.in? Student::column_names
     end
-    dataset = Baobab::Dataset::new []
-    # @tree = Baobab::DecisionTree::new dataset, @class_name
+    @query_parameters = params.select do |k, v|
+      k.in? Student::ds_column_names
+    end
+    dataset = Baobab::Dataset::new student_list
+    @tree = Baobab::DecisionTree::new dataset, @class_col[:name]
+    @result = @tree.query @query_parameters
   end
 
 private
 
   # Returns a list of hashes that can be fed into a dataset
   def student_list
-    Student::all
+    Student::all.map do |s|
+      s.attributes.except 'id', 'created_at', 'updated_at'
+    end
   end
 
 end
