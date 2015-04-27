@@ -1,0 +1,11 @@
+<%= form_tag 'result', method: 'get' do %>
+  <% @columns.each do |column| %>
+    <div class="form-group">
+      <%= label_tag column[:name], column[:desc] %>
+      <%= select_tag column[:name], options_from_collection_for_select(column[:values], :name, :desc) %>
+    </div>
+  <% end %>
+  <div class="form-group">
+    <%= submit_tag "Predict my #{@class_column.downcase}" %>
+  </div>
+<% end %>
