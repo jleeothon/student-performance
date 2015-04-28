@@ -9,6 +9,10 @@ group :development do
   gem 'sqlite3'
 end
 
+group :production do
+  gem 'pg'
+end
+
 gem 'bootstrap-sass'
 gem 'sass-rails', '~> 5.0'
 
