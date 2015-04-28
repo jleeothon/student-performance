@@ -32,7 +32,8 @@ class MainController < ApplicationController
     end
     dataset = Baobab::Dataset::new student_list
     @tree = Baobab::DecisionTree::new dataset, @class_col[:name]
-    @result = @tree.query @query_parameters
+    result = @tree.query @query_parameters
+    @result = Student::description_for @class_col[:name], result
   end
 
 private
