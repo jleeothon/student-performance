@@ -41,3 +41,5 @@ group :development, :test do
 end
 
 gem 'baobab'
+
+gem 'rails_12factor', group: :production
