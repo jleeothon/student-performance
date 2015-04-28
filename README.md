@@ -1,6 +1,6 @@
 # Student Performance
 
-This is a web application that predicts student's performance in math and Portuguese class using an [ID3 algorithm](http://en.wikipedia.org/wiki/ID3_algorithm) implemented in [baobab](https://github.com/jleeothon/baobab).
+This is a web application that predicts student's performance in math class using an [ID3 algorithm](http://en.wikipedia.org/wiki/ID3_algorithm) implemented in [baobab](https://github.com/jleeothon/baobab).
 
 # Attribution
 
