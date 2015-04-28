@@ -11,23 +11,17 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150427011943) do
+ActiveRecord::Schema.define(version: 20150427025624) do
 
   create_table "students", force: :cascade do |t|
     t.string   "sex"
-    t.integer  "age"
     t.string   "address"
     t.string   "famsize"
     t.string   "Pstatus"
-    t.integer  "Medu"
-    t.integer  "Fedu"
     t.string   "Mjob"
     t.string   "Fjob"
     t.string   "reason"
     t.string   "guardian"
-    t.integer  "traveltime"
-    t.integer  "studytime"
-    t.integer  "failures"
     t.string   "schoolsup"
     t.string   "famsup"
     t.string   "paid"
@@ -36,18 +30,24 @@ ActiveRecord::Schema.define(version: 20150427011943) do
     t.string   "higher"
     t.string   "internet"
     t.string   "romantic"
-    t.integer  "famrel"
-    t.integer  "freetime"
-    t.integer  "goout"
-    t.integer  "Dalc"
-    t.integer  "Walc"
-    t.integer  "health"
-    t.integer  "absences"
-    t.integer  "G1"
-    t.integer  "G2"
-    t.integer  "G3"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string   "age"
+    t.string   "Medu"
+    t.string   "Fedu"
+    t.string   "traveltime"
+    t.string   "studytime"
+    t.string   "failures"
+    t.string   "famrel"
+    t.string   "freetime"
+    t.string   "goout"
+    t.string   "Dalc"
+    t.string   "Walc"
+    t.string   "health"
+    t.string   "absences"
+    t.string   "G1"
+    t.string   "G2"
+    t.string   "G3"
   end
 
 end
