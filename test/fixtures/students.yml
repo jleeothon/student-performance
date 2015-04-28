@@ -14,14 +14,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "yes"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 4
@@ -48,14 +48,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 3
@@ -82,14 +82,14 @@
   traveltime: 1
   studytime: 2
   failures: 3
-  schoolsup: yes
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 2
@@ -116,14 +116,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 2
   goout: 2
@@ -150,14 +150,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 2
@@ -184,14 +184,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 2
@@ -218,14 +218,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 4
@@ -252,14 +252,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 1
   goout: 4
@@ -286,14 +286,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 2
   goout: 2
@@ -320,14 +320,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 5
   goout: 1
@@ -354,14 +354,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 3
   goout: 3
@@ -388,14 +388,14 @@
   traveltime: 3
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 2
   goout: 2
@@ -422,14 +422,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -456,14 +456,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 3
@@ -490,14 +490,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 5
   goout: 2
@@ -524,14 +524,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 4
@@ -558,14 +558,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 2
   goout: 3
@@ -592,14 +592,14 @@
   traveltime: 3
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 2
@@ -626,14 +626,14 @@
   traveltime: 1
   studytime: 1
   failures: 3
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 5
   goout: 5
@@ -660,14 +660,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 1
   goout: 3
@@ -694,14 +694,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 1
@@ -728,14 +728,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 2
@@ -762,14 +762,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 5
   goout: 1
@@ -796,14 +796,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 4
@@ -830,14 +830,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 2
@@ -864,14 +864,14 @@
   traveltime: 1
   studytime: 1
   failures: 2
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 1
   freetime: 2
   goout: 2
@@ -898,14 +898,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 2
   goout: 2
@@ -932,14 +932,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 2
   freetime: 2
   goout: 4
@@ -966,14 +966,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 3
@@ -1000,14 +1000,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 5
@@ -1034,14 +1034,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 2
@@ -1068,14 +1068,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 1
@@ -1102,14 +1102,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 5
   goout: 2
@@ -1136,14 +1136,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 2
@@ -1170,14 +1170,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 3
@@ -1204,14 +1204,14 @@
   traveltime: 2
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 3
   freetime: 5
   goout: 1
@@ -1238,14 +1238,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 3
@@ -1272,14 +1272,14 @@
   traveltime: 2
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 2
   freetime: 4
   goout: 3
@@ -1306,14 +1306,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 2
@@ -1340,14 +1340,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 1
@@ -1374,14 +1374,14 @@
   traveltime: 2
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 3
   goout: 3
@@ -1408,14 +1408,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 4
   goout: 3
@@ -1442,14 +1442,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -1476,14 +1476,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 1
@@ -1510,14 +1510,14 @@
   traveltime: 2
   studytime: 2
   failures: 1
-  schoolsup: yes
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -1544,14 +1544,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 2
   goout: 2
@@ -1578,14 +1578,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 2
   freetime: 3
   goout: 5
@@ -1612,14 +1612,14 @@
   traveltime: 1
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 2
   goout: 2
@@ -1646,14 +1646,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -1680,14 +1680,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 4
@@ -1714,14 +1714,14 @@
   traveltime: 3
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -1748,14 +1748,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -1782,14 +1782,14 @@
   traveltime: 2
   studytime: 1
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 5
   freetime: 5
   goout: 5
@@ -1816,14 +1816,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 3
   goout: 4
@@ -1850,14 +1850,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 4
@@ -1884,14 +1884,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 3
   goout: 4
@@ -1918,14 +1918,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 2
@@ -1952,14 +1952,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 3
   freetime: 2
   goout: 2
@@ -1986,14 +1986,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 2
@@ -2020,14 +2020,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 2
   goout: 3
@@ -2054,14 +2054,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 2
   freetime: 4
   goout: 4
@@ -2088,14 +2088,14 @@
   traveltime: 4
   studytime: 1
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 5
   goout: 5
@@ -2122,14 +2122,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 3
@@ -2156,14 +2156,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 4
   goout: 4
@@ -2190,14 +2190,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "yes"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 4
@@ -2224,14 +2224,14 @@
   traveltime: 3
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 3
@@ -2258,14 +2258,14 @@
   traveltime: 1
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 1
   freetime: 3
   goout: 3
@@ -2292,14 +2292,14 @@
   traveltime: 1
   studytime: 4
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -2326,14 +2326,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 1
   goout: 3
@@ -2360,14 +2360,14 @@
   traveltime: 2
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 2
@@ -2394,14 +2394,14 @@
   traveltime: 2
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 2
@@ -2428,14 +2428,14 @@
   traveltime: 1
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 3
   goout: 3
@@ -2462,14 +2462,14 @@
   traveltime: 1
   studytime: 2
   failures: 2
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 3
   goout: 4
@@ -2496,14 +2496,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 2
@@ -2530,14 +2530,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -2564,14 +2564,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -2598,14 +2598,14 @@
   traveltime: 2
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 4
   goout: 3
@@ -2632,14 +2632,14 @@
   traveltime: 1
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 2
   goout: 3
@@ -2666,14 +2666,14 @@
   traveltime: 2
   studytime: 1
   failures: 3
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: no
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "no"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 5
   goout: 1
@@ -2700,14 +2700,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 2
   freetime: 4
   goout: 3
@@ -2734,14 +2734,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 2
   goout: 2
@@ -2768,14 +2768,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: yes
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 2
@@ -2802,14 +2802,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 4
@@ -2836,14 +2836,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 3
@@ -2870,14 +2870,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 2
@@ -2904,14 +2904,14 @@
   traveltime: 2
   studytime: 2
   failures: 2
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 4
@@ -2938,14 +2938,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 4
@@ -2972,14 +2972,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 3
@@ -3006,14 +3006,14 @@
   traveltime: 2
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 2
@@ -3040,14 +3040,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 1
   goout: 3
@@ -3074,14 +3074,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 3
@@ -3108,14 +3108,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 5
   goout: 5
@@ -3142,14 +3142,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 3
   freetime: 3
   goout: 3
@@ -3176,14 +3176,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 3
@@ -3210,14 +3210,14 @@
   traveltime: 1
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 4
@@ -3244,14 +3244,14 @@
   traveltime: 2
   studytime: 4
   failures: 1
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 1
   goout: 2
@@ -3278,14 +3278,14 @@
   traveltime: 2
   studytime: 1
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 3
   goout: 3
@@ -3312,14 +3312,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 5
@@ -3346,14 +3346,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 4
@@ -3380,14 +3380,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 5
@@ -3414,14 +3414,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 5
   goout: 5
@@ -3448,14 +3448,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 3
@@ -3482,14 +3482,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 3
@@ -3516,14 +3516,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 5
@@ -3550,14 +3550,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 4
@@ -3584,14 +3584,14 @@
   traveltime: 1
   studytime: 4
   failures: 0
-  schoolsup: yes
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "yes"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -3618,14 +3618,14 @@
   traveltime: 1
   studytime: 4
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 1
   goout: 2
@@ -3652,14 +3652,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 3
@@ -3686,14 +3686,14 @@
   traveltime: 4
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 1
   freetime: 3
   goout: 5
@@ -3720,14 +3720,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 4
   goout: 5
@@ -3754,14 +3754,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 5
   goout: 3
@@ -3788,14 +3788,14 @@
   traveltime: 1
   studytime: 3
   failures: 1
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 1
   goout: 2
@@ -3822,14 +3822,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: yes
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 1
   goout: 2
@@ -3856,14 +3856,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 5
   goout: 2
@@ -3890,14 +3890,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 4
   goout: 2
@@ -3924,14 +3924,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 4
@@ -3958,14 +3958,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 3
@@ -3992,14 +3992,14 @@
   traveltime: 2
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 2
@@ -4026,14 +4026,14 @@
   traveltime: 3
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 2
   goout: 4
@@ -4060,14 +4060,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 4
   goout: 3
@@ -4094,14 +4094,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 2
   goout: 3
@@ -4128,14 +4128,14 @@
   traveltime: 1
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 5
   goout: 4
@@ -4162,14 +4162,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 2
   goout: 2
@@ -4196,14 +4196,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 4
   goout: 4
@@ -4230,14 +4230,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 4
   goout: 4
@@ -4264,14 +4264,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: yes
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 5
   goout: 5
@@ -4298,14 +4298,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "yes"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 3
   goout: 2
@@ -4332,14 +4332,14 @@
   traveltime: 1
   studytime: 2
   failures: 3
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: no
-  higher: no
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "no"
+  internet: "no"
+  romantic: "no"
   famrel: 3
   freetime: 4
   goout: 2
@@ -4366,14 +4366,14 @@
   traveltime: 1
   studytime: 1
   failures: 2
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 3
   goout: 3
@@ -4400,14 +4400,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 5
   goout: 5
@@ -4434,14 +4434,14 @@
   traveltime: 2
   studytime: 3
   failures: 2
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 2
   goout: 2
@@ -4468,14 +4468,14 @@
   traveltime: 3
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 3
@@ -4502,14 +4502,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 4
   goout: 4
@@ -4536,14 +4536,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 2
   goout: 1
@@ -4570,14 +4570,14 @@
   traveltime: 4
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "yes"
   famrel: 5
   freetime: 3
   goout: 3
@@ -4604,14 +4604,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 3
@@ -4638,14 +4638,14 @@
   traveltime: 3
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 5
@@ -4672,14 +4672,14 @@
   traveltime: 2
   studytime: 1
   failures: 2
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 2
@@ -4706,14 +4706,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 4
@@ -4740,14 +4740,14 @@
   traveltime: 2
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 2
@@ -4774,14 +4774,14 @@
   traveltime: 2
   studytime: 4
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 2
   freetime: 2
   goout: 2
@@ -4808,14 +4808,14 @@
   traveltime: 2
   studytime: 1
   failures: 2
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 2
   freetime: 3
   goout: 3
@@ -4842,14 +4842,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 2
   goout: 2
@@ -4876,14 +4876,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 4
   goout: 4
@@ -4910,14 +4910,14 @@
   traveltime: 1
   studytime: 1
   failures: 3
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 5
@@ -4944,14 +4944,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 2
@@ -4978,14 +4978,14 @@
   traveltime: 1
   studytime: 2
   failures: 3
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 3
   goout: 2
@@ -5012,14 +5012,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 2
@@ -5046,14 +5046,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: no
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "no"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 3
   goout: 2
@@ -5080,14 +5080,14 @@
   traveltime: 4
   studytime: 1
   failures: 3
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 5
   goout: 5
@@ -5114,14 +5114,14 @@
   traveltime: 1
   studytime: 1
   failures: 3
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: no
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "no"
+  internet: "yes"
+  romantic: "yes"
   famrel: 2
   freetime: 3
   goout: 5
@@ -5148,14 +5148,14 @@
   traveltime: 1
   studytime: 1
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 4
@@ -5182,14 +5182,14 @@
   traveltime: 2
   studytime: 3
   failures: 2
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 2
   goout: 1
@@ -5216,14 +5216,14 @@
   traveltime: 1
   studytime: 1
   failures: 3
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: no
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "no"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 5
   goout: 4
@@ -5250,14 +5250,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: yes
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "yes"
   famrel: 4
   freetime: 2
   goout: 1
@@ -5284,14 +5284,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "yes"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 4
@@ -5318,14 +5318,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 2
   freetime: 2
   goout: 2
@@ -5352,14 +5352,14 @@
   traveltime: 3
   studytime: 1
   failures: 3
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 5
   freetime: 2
   goout: 5
@@ -5386,14 +5386,14 @@
   traveltime: 3
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 2
   goout: 2
@@ -5420,14 +5420,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 5
   goout: 5
@@ -5454,14 +5454,14 @@
   traveltime: 2
   studytime: 1
   failures: 2
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: no
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "no"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 3
   goout: 2
@@ -5488,14 +5488,14 @@
   traveltime: 2
   studytime: 2
   failures: 2
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 4
@@ -5522,14 +5522,14 @@
   traveltime: 2
   studytime: 1
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 4
@@ -5556,14 +5556,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: no
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "no"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 3
@@ -5590,14 +5590,14 @@
   traveltime: 4
   studytime: 2
   failures: 3
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: no
-  internet: no
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "no"
+  internet: "no"
+  romantic: "yes"
   famrel: 5
   freetime: 3
   goout: 5
@@ -5624,14 +5624,14 @@
   traveltime: 2
   studytime: 1
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: no
-  higher: no
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "no"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 5
   goout: 2
@@ -5658,14 +5658,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: no
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "no"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 5
@@ -5692,14 +5692,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 2
   goout: 3
@@ -5726,14 +5726,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 1
   goout: 5
@@ -5760,14 +5760,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 2
@@ -5794,14 +5794,14 @@
   traveltime: 3
   studytime: 1
   failures: 2
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 4
   goout: 5
@@ -5828,14 +5828,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 2
@@ -5862,14 +5862,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 4
@@ -5896,14 +5896,14 @@
   traveltime: 1
   studytime: 2
   failures: 3
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 5
@@ -5930,14 +5930,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 5
@@ -5964,14 +5964,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 4
@@ -5998,14 +5998,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 4
   goout: 4
@@ -6032,14 +6032,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 4
@@ -6066,14 +6066,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 3
@@ -6100,14 +6100,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 2
   goout: 3
@@ -6134,14 +6134,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 4
   goout: 3
@@ -6168,14 +6168,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 2
   goout: 3
@@ -6202,14 +6202,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 2
@@ -6236,14 +6236,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 3
   goout: 3
@@ -6270,14 +6270,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 1
   freetime: 2
   goout: 2
@@ -6304,14 +6304,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 4
@@ -6338,14 +6338,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 3
   goout: 3
@@ -6372,14 +6372,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 2
   goout: 3
@@ -6406,14 +6406,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 3
   goout: 3
@@ -6440,14 +6440,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 3
   freetime: 1
   goout: 3
@@ -6474,14 +6474,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -6508,14 +6508,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 3
@@ -6542,14 +6542,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 4
@@ -6576,14 +6576,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 2
@@ -6610,14 +6610,14 @@
   traveltime: 2
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 3
@@ -6644,14 +6644,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 2
@@ -6678,14 +6678,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 2
   goout: 3
@@ -6712,14 +6712,14 @@
   traveltime: 3
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 3
   goout: 4
@@ -6746,14 +6746,14 @@
   traveltime: 2
   studytime: 1
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 2
   goout: 4
@@ -6780,14 +6780,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 5
   goout: 2
@@ -6814,14 +6814,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 5
@@ -6848,14 +6848,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 3
@@ -6882,14 +6882,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: no
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 4
@@ -6916,14 +6916,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 2
@@ -6950,14 +6950,14 @@
   traveltime: 2
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 5
@@ -6984,14 +6984,14 @@
   traveltime: 1
   studytime: 3
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 3
@@ -7018,14 +7018,14 @@
   traveltime: 1
   studytime: 2
   failures: 3
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 2
   freetime: 3
   goout: 3
@@ -7052,14 +7052,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 1
   freetime: 3
   goout: 2
@@ -7086,14 +7086,14 @@
   traveltime: 2
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 2
@@ -7120,14 +7120,14 @@
   traveltime: 2
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 2
@@ -7154,14 +7154,14 @@
   traveltime: 1
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -7188,14 +7188,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 3
   goout: 5
@@ -7222,14 +7222,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 3
   goout: 4
@@ -7256,14 +7256,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 4
@@ -7290,14 +7290,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 5
   freetime: 2
   goout: 1
@@ -7324,14 +7324,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 4
@@ -7358,14 +7358,14 @@
   traveltime: 1
   studytime: 2
   failures: 2
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 4
   goout: 5
@@ -7392,14 +7392,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 2
   goout: 4
@@ -7426,14 +7426,14 @@
   traveltime: 2
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 3
   freetime: 3
   goout: 3
@@ -7460,14 +7460,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -7494,14 +7494,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 2
   goout: 5
@@ -7528,14 +7528,14 @@
   traveltime: 1
   studytime: 3
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 4
@@ -7562,14 +7562,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 2
   freetime: 3
   goout: 1
@@ -7596,14 +7596,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 3
   goout: 3
@@ -7630,14 +7630,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 2
@@ -7664,14 +7664,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 3
   goout: 3
@@ -7698,14 +7698,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 4
@@ -7732,14 +7732,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 3
@@ -7766,14 +7766,14 @@
   traveltime: 4
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 2
@@ -7800,14 +7800,14 @@
   traveltime: 2
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 2
   goout: 3
@@ -7834,14 +7834,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 2
   goout: 3
@@ -7868,14 +7868,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 5
   goout: 2
@@ -7902,14 +7902,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 5
   goout: 5
@@ -7936,14 +7936,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 2
   goout: 4
@@ -7970,14 +7970,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 4
   goout: 2
@@ -8004,14 +8004,14 @@
   traveltime: 2
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 3
   goout: 3
@@ -8038,14 +8038,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 2
@@ -8072,14 +8072,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 5
   goout: 2
@@ -8106,14 +8106,14 @@
   traveltime: 3
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 2
   freetime: 1
   goout: 1
@@ -8140,14 +8140,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: no
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "no"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 5
   goout: 4
@@ -8174,14 +8174,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 2
   freetime: 5
   goout: 5
@@ -8208,14 +8208,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 3
   goout: 3
@@ -8242,14 +8242,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 5
@@ -8276,14 +8276,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 2
@@ -8310,14 +8310,14 @@
   traveltime: 2
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 4
@@ -8344,14 +8344,14 @@
   traveltime: 3
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -8378,14 +8378,14 @@
   traveltime: 2
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 2
   goout: 2
@@ -8412,14 +8412,14 @@
   traveltime: 1
   studytime: 1
   failures: 3
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: no
-  higher: no
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "no"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 4
   goout: 5
@@ -8446,14 +8446,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 3
@@ -8480,14 +8480,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 2
@@ -8514,14 +8514,14 @@
   traveltime: 2
   studytime: 1
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: no
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "no"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 5
@@ -8548,14 +8548,14 @@
   traveltime: 3
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 3
@@ -8582,14 +8582,14 @@
   traveltime: 1
   studytime: 1
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: no
-  higher: no
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "no"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 2
   goout: 5
@@ -8616,14 +8616,14 @@
   traveltime: 2
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 3
   freetime: 3
   goout: 2
@@ -8650,14 +8650,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 2
@@ -8684,14 +8684,14 @@
   traveltime: 2
   studytime: 1
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 4
@@ -8718,14 +8718,14 @@
   traveltime: 1
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 2
   goout: 3
@@ -8752,14 +8752,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 1
@@ -8786,14 +8786,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 2
   goout: 4
@@ -8820,14 +8820,14 @@
   traveltime: 1
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 4
   goout: 1
@@ -8854,14 +8854,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 1
   goout: 2
@@ -8888,14 +8888,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 2
@@ -8922,14 +8922,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 2
@@ -8956,14 +8956,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 3
   freetime: 2
   goout: 3
@@ -8990,14 +8990,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 3
@@ -9024,14 +9024,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 2
   goout: 5
@@ -9058,14 +9058,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 4
   goout: 4
@@ -9092,14 +9092,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 4
@@ -9126,14 +9126,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 4
   goout: 5
@@ -9160,14 +9160,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: no
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "no"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 5
@@ -9194,14 +9194,14 @@
   traveltime: 1
   studytime: 2
   failures: 2
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 5
@@ -9228,14 +9228,14 @@
   traveltime: 1
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 5
   goout: 5
@@ -9262,14 +9262,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: no
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 3
@@ -9296,14 +9296,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: no
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "no"
+  romantic: "yes"
   famrel: 3
   freetime: 5
   goout: 2
@@ -9330,14 +9330,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 3
@@ -9364,14 +9364,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 4
@@ -9398,14 +9398,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: no
-  higher: no
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "no"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 1
   goout: 1
@@ -9432,14 +9432,14 @@
   traveltime: 2
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 2
   goout: 4
@@ -9466,14 +9466,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 2
   freetime: 4
   goout: 4
@@ -9500,14 +9500,14 @@
   traveltime: 2
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 2
   goout: 3
@@ -9534,14 +9534,14 @@
   traveltime: 2
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 5
   goout: 4
@@ -9568,14 +9568,14 @@
   traveltime: 1
   studytime: 1
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 4
@@ -9602,14 +9602,14 @@
   traveltime: 2
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 5
   freetime: 2
   goout: 2
@@ -9636,14 +9636,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: yes
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 4
@@ -9670,14 +9670,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 5
@@ -9704,14 +9704,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -9738,14 +9738,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -9772,14 +9772,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -9806,14 +9806,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 2
   goout: 4
@@ -9840,14 +9840,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 3
@@ -9874,14 +9874,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 2
@@ -9908,14 +9908,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 2
   goout: 2
@@ -9942,14 +9942,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 4
   goout: 3
@@ -9976,14 +9976,14 @@
   traveltime: 2
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 3
   freetime: 1
   goout: 2
@@ -10010,14 +10010,14 @@
   traveltime: 2
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 2
@@ -10044,14 +10044,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 3
@@ -10078,14 +10078,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 2
   freetime: 3
   goout: 4
@@ -10112,14 +10112,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 5
@@ -10146,14 +10146,14 @@
   traveltime: 1
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -10180,14 +10180,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 1
   freetime: 4
   goout: 2
@@ -10214,14 +10214,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 2
   goout: 4
@@ -10248,14 +10248,14 @@
   traveltime: 2
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 1
   goout: 1
@@ -10282,14 +10282,14 @@
   traveltime: 2
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -10316,14 +10316,14 @@
   traveltime: 1
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 2
   goout: 2
@@ -10350,14 +10350,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 4
@@ -10384,14 +10384,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 3
@@ -10418,14 +10418,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 5
   freetime: 5
   goout: 3
@@ -10452,14 +10452,14 @@
   traveltime: 2
   studytime: 1
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 4
@@ -10486,14 +10486,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "yes"
   famrel: 4
   freetime: 5
   goout: 3
@@ -10520,14 +10520,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: yes
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "yes"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 3
@@ -10554,14 +10554,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: no
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "no"
+  romantic: "yes"
   famrel: 4
   freetime: 2
   goout: 4
@@ -10588,14 +10588,14 @@
   traveltime: 3
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: no
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "no"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 4
   goout: 1
@@ -10622,14 +10622,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 5
   goout: 2
@@ -10656,14 +10656,14 @@
   traveltime: 2
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 2
   goout: 2
@@ -10690,14 +10690,14 @@
   traveltime: 1
   studytime: 3
   failures: 2
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 1
   goout: 2
@@ -10724,14 +10724,14 @@
   traveltime: 1
   studytime: 3
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 1
   goout: 2
@@ -10758,14 +10758,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 3
@@ -10792,14 +10792,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 4
@@ -10826,14 +10826,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 4
@@ -10860,14 +10860,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 4
@@ -10894,14 +10894,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 2
   goout: 2
@@ -10928,14 +10928,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "yes"
   famrel: 4
   freetime: 2
   goout: 2
@@ -10962,14 +10962,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 3
   goout: 2
@@ -10996,14 +10996,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 4
   goout: 3
@@ -11030,14 +11030,14 @@
   traveltime: 2
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 3
   goout: 3
@@ -11064,14 +11064,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -11098,14 +11098,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 5
@@ -11132,14 +11132,14 @@
   traveltime: 4
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 5
@@ -11166,14 +11166,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 4
@@ -11200,14 +11200,14 @@
   traveltime: 2
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 3
@@ -11234,14 +11234,14 @@
   traveltime: 1
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 5
   goout: 5
@@ -11268,14 +11268,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 3
@@ -11302,14 +11302,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 4
@@ -11336,14 +11336,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 3
@@ -11370,14 +11370,14 @@
   traveltime: 2
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 4
@@ -11404,14 +11404,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 5
@@ -11438,14 +11438,14 @@
   traveltime: 1
   studytime: 3
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 3
@@ -11472,14 +11472,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 2
@@ -11506,14 +11506,14 @@
   traveltime: 1
   studytime: 4
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 3
@@ -11540,14 +11540,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -11574,14 +11574,14 @@
   traveltime: 1
   studytime: 3
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 4
@@ -11608,14 +11608,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -11642,14 +11642,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 3
@@ -11676,14 +11676,14 @@
   traveltime: 1
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 3
   goout: 1
@@ -11710,14 +11710,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -11744,14 +11744,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 4
   goout: 3
@@ -11778,14 +11778,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 3
   goout: 2
@@ -11812,14 +11812,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 4
   goout: 5
@@ -11846,14 +11846,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 3
@@ -11880,14 +11880,14 @@
   traveltime: 2
   studytime: 1
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 2
   freetime: 5
   goout: 5
@@ -11914,14 +11914,14 @@
   traveltime: 3
   studytime: 2
   failures: 3
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 4
@@ -11948,14 +11948,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 5
   goout: 4
@@ -11982,14 +11982,14 @@
   traveltime: 1
   studytime: 1
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: no
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "no"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 3
@@ -12016,14 +12016,14 @@
   traveltime: 3
   studytime: 1
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 4
@@ -12050,14 +12050,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 5
   goout: 5
@@ -12084,14 +12084,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "yes"
   famrel: 5
   freetime: 3
   goout: 4
@@ -12118,14 +12118,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 3
@@ -12152,14 +12152,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "yes"
   famrel: 1
   freetime: 2
   goout: 3
@@ -12186,14 +12186,14 @@
   traveltime: 2
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 3
   goout: 2
@@ -12220,14 +12220,14 @@
   traveltime: 2
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 2
@@ -12254,14 +12254,14 @@
   traveltime: 3
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 4
@@ -12288,14 +12288,14 @@
   traveltime: 2
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: no
-  higher: no
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "no"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 3
@@ -12322,14 +12322,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 2
@@ -12356,14 +12356,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 2
   freetime: 3
   goout: 4
@@ -12390,14 +12390,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 3
   freetime: 2
   goout: 2
@@ -12424,14 +12424,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 3
   freetime: 3
   goout: 4
@@ -12458,14 +12458,14 @@
   traveltime: 2
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 2
   goout: 2
@@ -12492,14 +12492,14 @@
   traveltime: 3
   studytime: 1
   failures: 1
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 2
   goout: 1
@@ -12526,14 +12526,14 @@
   traveltime: 2
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 2
   goout: 3
@@ -12560,14 +12560,14 @@
   traveltime: 3
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 3
   freetime: 2
   goout: 2
@@ -12594,14 +12594,14 @@
   traveltime: 2
   studytime: 2
   failures: 2
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "yes"
   famrel: 3
   freetime: 2
   goout: 2
@@ -12628,14 +12628,14 @@
   traveltime: 3
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: no
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "no"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 3
   goout: 3
@@ -12662,14 +12662,14 @@
   traveltime: 1
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "yes"
   famrel: 3
   freetime: 4
   goout: 3
@@ -12696,14 +12696,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 5
   goout: 5
@@ -12730,14 +12730,14 @@
   traveltime: 2
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 4
@@ -12764,14 +12764,14 @@
   traveltime: 4
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 2
@@ -12798,14 +12798,14 @@
   traveltime: 2
   studytime: 3
   failures: 2
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 5
   freetime: 4
   goout: 3
@@ -12832,14 +12832,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 3
@@ -12866,14 +12866,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 1
   goout: 3
@@ -12900,14 +12900,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 5
   goout: 4
@@ -12934,14 +12934,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 2
   goout: 4
@@ -12968,14 +12968,14 @@
   traveltime: 2
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 3
@@ -13002,14 +13002,14 @@
   traveltime: 2
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 3
@@ -13036,14 +13036,14 @@
   traveltime: 2
   studytime: 1
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 2
@@ -13070,14 +13070,14 @@
   traveltime: 2
   studytime: 1
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 3
@@ -13104,14 +13104,14 @@
   traveltime: 2
   studytime: 3
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 5
   freetime: 3
   goout: 3
@@ -13138,14 +13138,14 @@
   traveltime: 3
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: yes
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "yes"
   famrel: 4
   freetime: 4
   goout: 3
@@ -13172,14 +13172,14 @@
   traveltime: 1
   studytime: 3
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 5
   freetime: 4
   goout: 2
@@ -13206,14 +13206,14 @@
   traveltime: 1
   studytime: 2
   failures: 0
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 3
   goout: 4
@@ -13240,14 +13240,14 @@
   traveltime: 2
   studytime: 2
   failures: 1
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: yes
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "yes"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 1
   freetime: 1
   goout: 1
@@ -13274,14 +13274,14 @@
   traveltime: 1
   studytime: 2
   failures: 2
-  schoolsup: no
-  famsup: yes
-  paid: yes
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "yes"
+  paid: "yes"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 5
   freetime: 5
   goout: 4
@@ -13308,14 +13308,14 @@
   traveltime: 2
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 2
   freetime: 4
   goout: 5
@@ -13342,14 +13342,14 @@
   traveltime: 1
   studytime: 1
   failures: 3
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: no
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "no"
+  romantic: "no"
   famrel: 5
   freetime: 5
   goout: 3
@@ -13376,14 +13376,14 @@
   traveltime: 3
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: no
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "no"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 4
   freetime: 4
   goout: 1
@@ -13410,14 +13410,14 @@
   traveltime: 1
   studytime: 1
   failures: 0
-  schoolsup: no
-  famsup: no
-  paid: no
-  activities: no
-  nursery: yes
-  higher: yes
-  internet: yes
-  romantic: no
+  schoolsup: "no"
+  famsup: "no"
+  paid: "no"
+  activities: "no"
+  nursery: "yes"
+  higher: "yes"
+  internet: "yes"
+  romantic: "no"
   famrel: 3
   freetime: 2
   goout: 3
