@@ -12,6 +12,15 @@ class Student < ActiveRecord::Base
     end
   end
 
+  # Receives a name (value) and outputs its description
+  def self.description_for name, value
+    @@DSColumns.find do |c|
+      c[:name] == name
+    end[:values].find do |v|
+      v[0] == value
+    end[1]
+  end
+
   @@EducationLevels = [['0', 'None'], ['1', 'Up to 4th grad'],
     ['2', '5th to 9th grade'], ['3', 'Secondary education'],
     ['4', 'Higher education']]
