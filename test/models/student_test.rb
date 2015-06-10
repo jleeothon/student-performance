@@ -13,7 +13,8 @@ class StudentTest < ActiveSupport::TestCase
   end
 
   test "students can be put into id3 tree" do
-    # puts @tree.to_s
+    @tree = Baobab::DecisionTree::new @dataset, 'Mjob'
+    puts @tree.to_s
   end
 
   test "complete test 1" do
